@@ -1,0 +1,9 @@
+# Requirements to build the charm
+charm-tools
+simplejson
+flake8
+charmhelpers
+git+https://github.com/openstack/charms.openstack.git#egg=charms.openstack
+charms.reactive
+glustercli
+ruamel.yaml==0.11.14

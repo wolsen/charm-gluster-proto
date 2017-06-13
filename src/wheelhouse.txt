@@ -1,0 +1,5 @@
+result
+pyudev
+glustercli
+git+https://github.com/openstack/charms.openstack.git#egg=charms.openstack
+charms.reactive
